@@ -1,0 +1,34 @@
+h1{
+    color:#000;
+}
+
+a{
+    text-decoration: none;
+}
+
+#asd{
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+}
+
+.hero-section #asd:hover{
+    color: #fff;
+    font-size: 200px;
+    background-color: #000;
+    border-radius: 50px;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: hsl(0, 0%, 94%);
+    background-image: url('https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png'), url('https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png');
+    /* background-size: 100% 100%; */
+    /* background-attachment: ; */
+    background-repeat:no-repeat ;
+    background-position: top;
+    background-blend-mode:multiply;
+    background-attachment:fixed;
+}
+

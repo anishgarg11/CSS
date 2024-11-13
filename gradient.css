@@ -1,0 +1,32 @@
+
+/* Gradient CSS (to right top, to left bottom, 90deg to 360deg)*/
+
+/* -------------------background-image:linear-gradient(to right top, red, blue);------------------------ */
+
+/* syntax(to right top, color1, color2, color3(optional according to choice) */
+
+/* -------------------background-image:repeating-linear-gradient(to right top, red, blue 45px);------------------------ */
+
+
+*{
+   /* padding: 0;
+    margin: 0;
+    background-image:linear-gradient(to left top, rgba(0,25,89,0.6), rgba(52, 56, 87, 
+    0.8)),url(https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; */
+    /* background-image: repeating-linear-gradient(45deg, red, rgb(6, 0, 86) 500px); */
+    /* width: 100%;
+    height: 100vh; */
+}
+
+/* radial-gradient (circle, ellipse) */
+
+*{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background-image: repeating-radial-gradient(circle, red 20%, pink 20%, green 50% 56px);
+}
+

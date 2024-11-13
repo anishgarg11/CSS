@@ -1,0 +1,13 @@
+/* display:block; takes full width */
+p{
+    display: block;
+}
+
+/* display: inline;  takes more than one lines are separeated in one line*/
+p{
+    display: inline;
+}
+
+.span{
+    color: red;
+}

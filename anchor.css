@@ -1,0 +1,22 @@
+button{
+    background-color: #fff;
+}
+
+a{
+    color: #a9ea14;
+}
+
+
+a:link{
+    color: #000000;
+    text-decoration: none;
+}
+
+button a:visited{
+    color: rgb(254, 0, 0);
+}
+
+button a:active{
+    color: blue;
+}
+

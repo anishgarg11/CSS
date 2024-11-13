@@ -1,0 +1,22 @@
+*{
+    /* background-color: #000; */
+}
+
+.shadow{
+    width: 280px;
+    height: 400px;
+    box-shadow: 0px 1px 20px 3px rgb(223, 228, 221);
+    border-radius: 5px;
+    margin: 20px;
+    margin-bottom: 40px;
+    border: 2px solid;
+    
+}
+
+.image{
+    padding: 20px;
+    margin-top: 60px;
+    border-radius: 500vh;
+    -webkit-filter: drop-shadow(10 0 10px #f4f1f1);
+    -webkit-filter: contrast();
+}

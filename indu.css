@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* div{
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(223, 213, 213);
+    border-width: 5px;
+    text-shadow: 200px;
+     border-radius: 30% 70% 70% 30% / 97% 64% 36% 3% ;
+   background-image: linear-gradient(#051937, #004d7a, #008793, #00bf72, #a8eb12);
+    margin-bottom: 10px;
+    background: #DAD299; 
+background: -webkit-linear-gradient(to left, #B0DAB9, #DAD299);  
+background-image: linear-gradient(to left, #B0DAB9, #DAD299); 
+padding: 10px 20px 20px 10px;
+} */
+
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+p{
+    color: red;
+    /* border: 2px solid #000; */
+    word-break: break-all;
+    font-size: 20px;
+    /* background-color: #5623; */
+    /* padding: 200px; */
+    /* padding: 10px 20px; */
+    /* padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    word-spacing: 5px;
+    letter-spacing: 1px; */
+   border: 5px solid black;
+   padding: 50px;
+   box-sizing: border-box;
+   background-color: aqua;
+   /* margin: 0 auto; */
+   margin: 20px 0 0 0 ;
+   
+}
+
+.btn1{
+    margin-bottom: 30px;
+    color: red;
+
+}
+
+.btn2{
+    margin-top: 5cqmin;
+    color: red;
+
+}
+
